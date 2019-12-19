@@ -50,11 +50,12 @@ __bold__
 
 			pull: git pull origin master
 			push: git status
-						git add .
-						git commit -m "message"
-						git push origin +master
+				git add .
+				git commit -m "message"
+				git push origin +master
 
 * * *
 
 # Reference
 [마크다운작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+[git push n pull](https://youtu.be/tC8Xj_Bf8Fw)
