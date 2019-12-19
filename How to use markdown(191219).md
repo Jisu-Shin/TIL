@@ -1,4 +1,4 @@
-	
+
 # 큰제목 (문서 제목)
 ## 작은제목 (문서 부제목)
 ### 샾뒤에 뛰어쓰기 필수다 총 6개까지 붙일 수 있다
@@ -35,7 +35,26 @@ __bold__
 
 		insert
 		not change the content
-			
+
 * * *
+
+# git 과 local folder 연결
+
+		git init
+		git remote add origin "repository address"
+
+
+* * *
+
+# git pull & push 방법
+
+			pull: git pull origin master
+			push: git status
+						git add .
+						git commit -m "message"
+						git push origin +master
+
+* * *
+
 # Reference
 [마크다운작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
