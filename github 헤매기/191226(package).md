@@ -6,16 +6,15 @@
 
 cmd창을 연 다음에 만든 index 파일이 있는 폴더로 이동해야 한다<br>
 
-    cd *폴더주소*
-<br>
-
+    cd 폴더주소
     npm init
 
 <br>
 명령어를 치면 자동으로 영어글자들이 보인다 <br>
 아무 입력없이 엔터를 쳐도 무방하지만 그러기에는 너무 멋이 없기 때문에 <br>
 package name 에 알맞는 이름을 description은 추가 설명을 작성하면 된다
-author 에다가 자신의 닉네임을 적는
+author 에다가 자신의 닉네임을 적는다
+
 * 참고 package의 용도
 
 
