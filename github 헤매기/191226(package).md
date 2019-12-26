@@ -23,7 +23,8 @@ author 에다가 자신의 닉네임을 적는다
 ### 깃 연결 해지하는 방법
 <br>
 혼자서 package를 만들다가 git이랑 연동을 시킨적이 있었다 <br>
-그런데 그 git 계정을 없애서 깃 연결을 해지시켜야 했다 <br>
+그런데 그 git 계정을 없애서 깃 연결을 해지시켜야 했다 
+
 
 
 <img src="/github 헤매기/image/myerror_pack.PNG" width="80%">
