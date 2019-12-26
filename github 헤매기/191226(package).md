@@ -1,7 +1,7 @@
 # 191226
 ### node.js 에서 package를 생성하는 방법<br>
 
-<img src="/image/make_package.PNG" width="80%">
+<img src="/github 헤매기/image/make_package.PNG" width="80%">
 
 
 cmd창을 연 다음에 만든 index 파일이 있는 폴더로 이동해야 한다<br>
