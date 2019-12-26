@@ -27,7 +27,7 @@ author 에다가 자신의 닉네임을 적는
 깃 연결 해지하는 방법
 
 
-<img src="/image/myerror_pack.PNG" width="80%">
+<img src="/git 헤매기/image/myerror_pack.PNG" width="80%">
 
       del .git
 
